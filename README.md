@@ -6,7 +6,5 @@
 </div>
 
 <div align="center"> 
-<img src="[https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://i.pinimg.com/originals/e2/48/d7/e248d76b9468b84ed63e5811e0b5180a.gif)">
+<img src="https://i.pinimg.com/originals/e2/48/d7/e248d76b9468b84ed63e5811e0b5180a.gif">
 </div>
-
-  
