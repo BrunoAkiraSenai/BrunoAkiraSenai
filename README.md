@@ -1,15 +1,73 @@
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/512/3309/3309960.png" width="25" height="25" alt="Imagem icon sobre" />   Estatísticas do Akira</h2>
-  
+# 👋 Olá, eu sou o Bruno Akira
 
-<div align="center">
-  <a href="https://github.com/BrunoAkiraSenai"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAkiraSenai&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAkiraSenai&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-<div align="center"> 
-<img src="https://i.pinimg.com/originals/e2/48/d7/e248d76b9468b84ed63e5811e0b5180a.gif">
-</div>
+💻 Estudante de Ciência da Computação.
+
+Atualmente focado em:
+
+* ☕ Java
+* 🐍 Python
+* 🤖 Inteligência Artificial
+* 📊 Big Data e Análise de Dados
+* 🌐 APIs e desenvolvimento backend
+* 🧠 Aprendizado contínuo em programação
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante e gosto de aprender criando projetos práticos.
+Tenho interesse principalmente em:
+
+* Desenvolvimento backend
+* IA Generativa
+* Automação
+* Qualidade de software
+* Estrutura de dados e lógica de programação
+* Desenvolvimento de APIs
+* Analista de Sistemas
+* Tecnologia e inovação
+
+Também estou buscando evoluir constantemente minhas habilidades técnicas e construir projetos cada vez mais completos.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* IntelliJ IDEA
+* Postman
+* MySQL
+
+---
+
+
+## 📈 Objetivos
+
+* Conseguir minha primeira oportunidade na área de tecnologia
+* Evoluir como desenvolvedor backend
+* Aprender mais sobre IA e engenharia de software
+* Criar projetos úteis e escaláveis
+* Contribuir para projetos open source
+
+---
+
+## 📫 Contato
+
+
+* LinkedIn: [https://linkedin.com/in/bruno-furumori](https://www.linkedin.com/in/bruno-furumori-6585ba371/)
+* Email: [akirafurumori@gmail.com](akirafurumori@gmail.com)
 
 
 
+# "Transformando aprendizado em projetos." 🚀
