@@ -21,7 +21,6 @@ Tenho interesse principalmente em:
 * Desenvolvimento backend
 * IA Generativa
 * Automação
-* Qualidade de software
 * Estrutura de dados e lógica de programação
 * Desenvolvimento de APIs
 * Analista de Sistemas
